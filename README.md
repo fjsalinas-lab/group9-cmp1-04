@@ -1,6 +1,6 @@
 # group9-cmp1-04 University App
 
-A CLI (and optional GUI) university student/admin management system for COMP1-04.
+A CLI and a GUI university student/admin management system for COMP1-04.
 
 ## Structure
 
